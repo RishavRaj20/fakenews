@@ -17,13 +17,14 @@ Citation:
 
 Please cite the paper if you found it useful in your work.
 
-@unknown{unknown,
-author = {Rishav Raj},
-year = {2023},
-month = {12},
-pages = {},
-title = {Fake News Detection by Learning Convolution Filters through Contextualized Attention},
-doi = {10.13140/RG.2.2.20829.84968}
-}
+    @unknown{unknown,
+    author = {Rishav Raj},
+    year = {2023},
+    month = {12},
+    pages = {},
+    title = {Fake News Detection by Learning Convolution Filters through Contextualized Attention},
+    doi = {10.13140/RG.2.2.20829.84968}
+    }
+
 Acknowledgement
 I would like to thank FangJun Zhang(https://github.com/zfjmike) for open-sourcing the code for LIAR dataset in his repo(https://github.com/zfjmike/fake-news-detection) which served as the starting point for my work.
