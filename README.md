@@ -23,7 +23,6 @@ Please cite the paper if you found it useful in your work.
     month = {12},
     pages = {},
     title = {Fake News Detection by Learning Convolution Filters through Contextualized Attention},
-    doi = {10.13140/RG.2.2.20829.84968}
     }
 
 Acknowledgement
